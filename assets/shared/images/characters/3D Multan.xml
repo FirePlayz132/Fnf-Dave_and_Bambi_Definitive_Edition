@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="3D Multan.png"><SubTexture name="3D Multan Idle0000" x="293" y="288" width="290" height="252" frameX="-313" frameY="-105" frameWidth="896" frameHeight="504" />
+<SubTexture name="3D Multan Right0000" x="0" y="0" width="340" height="288" frameX="-398" frameY="-109" frameWidth="1066" frameHeight="600" />
+<SubTexture name="3D Multan Up0000" x="340" y="0" width="287" height="288" frameX="-398" frameY="-109" frameWidth="1066" frameHeight="600" />
+<SubTexture name="3D Multan Down0000" x="0" y="288" width="293" height="288" frameX="-398" frameY="-109" frameWidth="1066" frameHeight="600" />
+<SubTexture name="3D Multan Left0000" x="627" y="0" width="231" height="58" frameX="0" frameY="0" frameWidth="231" frameHeight="58" />
+</TextureAtlas>

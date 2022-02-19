@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				354,
+				-120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "3D Multan Idle"
+		},
+		{
+			"offsets": [
+				-121,
+				-323
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "3D Multan Left"
+		},
+		{
+			"offsets": [
+				530,
+				-60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "3D Multan Right"
+		},
+		{
+			"offsets": [
+				450,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "3D Multan Down"
+		},
+		{
+			"offsets": [
+				465,
+				-59
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "3D Multan Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/3D Multan",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "3DMultan",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		200,
+		22
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}
